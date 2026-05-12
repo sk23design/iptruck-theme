@@ -104,7 +104,7 @@
             "text_f9CFLH": {
               "type": "text",
               "settings": {
-                "text": "<p>IP Truck Parts Distributors of Genuine Components for Truck, PSV, Trailer and All Makes of Vehicles.<br/>We offer free delivery to Liverpool and throughout the North West. Call us on 0151 546 1920</p>",
+                "text": "<p>IP Truck Parts Distributors of Genuine Components for Truck, PSV, Trailer and All Makes of Vehicles.</p><p><br/>We offer free delivery to Liverpool and throughout the North West. Call us on 0151 546 1920</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -240,7 +240,7 @@
                 "text_YnCNPC": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Intentional design</h2>",
+                    "text": "<h2>Truck Parts Liverpool</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -265,7 +265,7 @@
                 "text_yUxa8B": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Everything we do starts with why</p>",
+                    "text": "<p>IP Truckparts Ltd. Unit 7, Gateway 4, School Lane<br/>Knowsley Business Park, Liverpool. L34 9EN.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -390,7 +390,7 @@
                 "text_NwLXzW": {
                   "type": "text",
                   "settings": {
-                    "text": "<h3>Made with care</h3>",
+                    "text": "<h3>Contact Us</h3>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -415,7 +415,7 @@
                 "text_Cxd8Vm": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>We believe in building better</p>",
+                    "text": "<p>Email : website@iptruckparts.co.uk</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -491,7 +491,7 @@
             "icon_MMfjRW": {
               "type": "icon",
               "settings": {
-                "icon": "truck",
+                "icon": "arrow",
                 "width": 32,
                 "link": "",
                 "open_in_new_tab": false
@@ -540,7 +540,7 @@
                 "text_bN9JrF": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>A team with a goal</h2>",
+                    "text": "<h2>Call Us</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -565,7 +565,7 @@
                 "text_a8fKYq": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Real people making great products</p>",
+                    "text": "<p>Parts :0151 546 1920<br/>Accounts : 0151 546 1920</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
