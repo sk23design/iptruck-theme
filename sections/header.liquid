@@ -61,6 +61,7 @@
 
   capture actions
     render 'header-actions'
+    render 'header-phone'
   endcapture
 
   if shop.customer_accounts_enabled
@@ -318,6 +319,7 @@
 
       if row == 'top'
         assign style = style | append: '--border-bottom-width-mobile: [width]px; ' | replace: '[width]', section.settings.border_width
+        
       endif
     %}
 
@@ -357,6 +359,7 @@
       {{ navigation_bar }}
     </div>
   {% endif %}
+  
 </header-component>
 
 <script
@@ -696,6 +699,14 @@ color:white;font-weight:700;font-size:16px;}
   .header.header--compact {
     --header-padding: var(--padding-2xs);
   }
+
+  
+.header-phone{
+
+  background-color: red;
+  border:0;
+
+}
 
   .header__columns {
     --padding-block-start: var(--header-padding);

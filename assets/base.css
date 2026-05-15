@@ -245,6 +245,8 @@ select {
   }
 }
 
+
+
 dialog {
   /* the ::backdrop inherits from the originating element, custom properties must be set on the dialog element */
   --backdrop-color-rgb: var(--color-shadow-rgb);
@@ -1711,7 +1713,7 @@ media-gallery.media-gallery--grid .media-gallery__grid .product-media-container 
   --product-media-fit: cover;
 
   img {
-    object-fit: var(--product-media-fit);
+    object-fit: contain;
   }
 }
 
@@ -4006,6 +4008,7 @@ text-component {
   transform: none;
   box-shadow: none;
 }
+
 
 /* Prevent iOS zoom on input focus by ensuring minimum 16px font size on mobile */
 @media screen and (max-width: 1200px) {
