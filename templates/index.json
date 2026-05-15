@@ -63,6 +63,7 @@
         "media_type_1": "image",
         "image_1": "shopify://shop_images/hella-jumbo-led-banner.jpg",
         "media_type_2": "image",
+        "image_2": "shopify://shop_images/oem-airbrake.jpg",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
         "media_type_1_mobile": "image",
