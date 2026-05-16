@@ -262,7 +262,7 @@
               "name": "t:names.image",
               "settings": {
                 "image": "shopify://shop_images/img4-id10.jpg",
-                "link": "shopify://collections/electrics",
+                "link": "shopify://collections/starter-motors",
                 "image_ratio": "adapt",
                 "width": "fill",
                 "custom_width": 100,
